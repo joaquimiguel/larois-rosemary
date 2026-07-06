@@ -138,3 +138,7 @@ drivers/kernelsu/
 
 # out
 out/
+
+# AK3
+AnyKernel3/Image.gz-dtb
+AnyKernel3/*zip
